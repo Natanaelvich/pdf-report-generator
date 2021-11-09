@@ -11,11 +11,11 @@
   <img src="https://img.shields.io/static/v1?label=example&message=pdf-report-generator&color=8257E5&labelColor=000000" alt="NLW Heat" />
 </p>
 
-## 📋 Descrição
+## 📋 Description
 
 Pdf report generator made with expressjs,typescript,prisma and pdfmake. <code><img height="21" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"></code><code><img height="21" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code><code><img height="21" src="https://www.prisma.io/images/favicon-32x32.png"></code>
 
-## ✨ Tecnologias
+## ✨ Technologies
 
 This project was developed with the following technologies:
 
